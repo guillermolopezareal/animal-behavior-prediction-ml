@@ -15,6 +15,7 @@ Dimensionality reduction (PCA)
 The project ultimately identifies behavioral clusters by combining image data + audio data.
 
 🧠 Key Components
+
 1️⃣ Pose Estimation & Tracking
 The mice were tracked using AlphaTracker, based on:
 Bounding box detection
